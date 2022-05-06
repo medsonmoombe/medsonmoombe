@@ -6,7 +6,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<a href="medsonmoombe21@gmail.com"><img src="https://img.shields.io/badge/medsonmoombe21@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>    <a href="https://www.linkedin.com/in/emmanuel-moombe-821918230/"><img src="https://img.shields.io/badge/emmanuel moombe-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:/)](https://twitter.com/@emmanue78388405)   <a href="https://www.linkedin.com/in/emmanuel-moombe-821918230/"><img src="https://img.shields.io/badge/emmanuel moombe-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
