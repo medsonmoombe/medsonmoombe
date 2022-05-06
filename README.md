@@ -1,4 +1,4 @@
-## HELLO MY NAME IS EMMANUEL! 👍
+### <i>HELLO MY NAME IS <strong>EMMANUEL</strong></i>! 👍
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/medsonmoombe/count.svg" />
@@ -6,7 +6,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/medsonmoombe21@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="medsonmoombe21@gmail.com">    <a href="https://www.linkedin.com/in/emmanuelmoombe/"><img src="https://img.shields.io/badge/emmanuel moombe-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="medsonmoombe21@gmail.com"><img src="https://img.shields.io/badge/medsonmoombe21@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>    <a href="https://www.linkedin.com/in/emmanuel-moombe-821918230/"><img src="https://img.shields.io/badge/emmanuel moombe-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
