@@ -6,7 +6,16 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:/)](https://twitter.com/@emmanue78388405)   <a href="https://www.linkedin.com/in/emmanuel-moombe-821918230/"><img src="https://img.shields.io/badge/emmanuel moombe-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://twitter.com/@emmanue78388405">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;  <a href="https://www.linkedin.com/in/emmanuel-moombe-821918230/">
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+   <a href="mailto:medsonmoombe21@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a><br>
+  
+  
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
